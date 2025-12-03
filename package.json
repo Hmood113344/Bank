@@ -1,0 +1,18 @@
+{
+  "name": "discord-bank-riyadh",
+  "version": "1.0.0",
+  "description": "بوت بنك الرياض على ديسكورد - تسجيل حساب، سحب، ايداع، تحويل، واجهة ادمن",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "deploy": "node deploy-commands.js"
+  },
+  "author": "You",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "sqlite3": "^5.1.6",
+    "sequelize": "^6.32.1",
+    "canvas": "^2.11.2"
+  }
+}
