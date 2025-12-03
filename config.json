@@ -1,12 +1,12 @@
 {
-  "token": "YOUR_BOT_TOKEN",
-  "clientId": "YOUR_CLIENT_ID",
-  "guildId": "OPTIONAL_GUILD_ID_FOR_DEV",
+  "token": "MTQ0Mjk2OTgwNjU5NTk0ODg0Ng.GSnjIJ.ZFbSR88m2aZH6J2ITNm2EYfxr4x3V19yQEDWBU",
+  "clientId": "1442969806595948846",
+  "guildId": "14411473271622248641441147327162224864",
   "bankName": "بنك الرياض",
   "currency": "SAR",
-  "applicationsChannelId": "CHANNEL_ID_FOR_APPLICATIONS",    // الشات اللي تننرسل فيه بطاقة التقديم (الادارة)
-  "publicBankChannelId": "CHANNEL_ID_FOR_PUBLIC_BANK_MSG",   // شات البنك العام (اللي فيه أزرار بياناتي/سحب/ايداع/تحويل)
-  "adminChannelId": "CHANNEL_ID_FOR_ADMIN_MSG",              // شات الادمن اللي ينرسل له رسالة الاضافات والحذف وكشف الحساب
-  "adminRoleId": "ROLE_ID_OF_BANK_ADMINS",                   // رول المسؤولين (ليتحكمون بالأزرار الادمنية)
+  "applicationsChannelId": "1441147327862669506",    // الشات اللي تننرسل فيه بطاقة التقديم (الادارة)
+  "publicBankChannelId": "1441147327862669506",   // شات البنك العام (اللي فيه أزرار بياناتي/سحب/ايداع/تحويل)
+  "adminChannelId": "1441147327862669506",              // شات الادمن اللي ينرسل له رسالة الاضافات والحذف وكشف الحساب
+  "adminRoleId": "1441147327862669506",                   // رول المسؤولين (ليتحكمون بالأزرار الادمنية)
   "transferFeeSar": 0.25
 }
